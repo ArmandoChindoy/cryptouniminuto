@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pages/styles/Home.css"],"names":[],"mappings":"AAAA,kBACI,YAAa,CACb,qBACJ","file":"main.5b1c9edb.chunk.css","sourcesContent":[".inputs-container{\n    display: flex;\n    flex-direction: column;\n}"]}
